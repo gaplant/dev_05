@@ -102,9 +102,11 @@
 
 .aboutimgs{
   height: 400px;
+  width: 400px;
   margin-right: 10px;
   float: left;
   display: block;
+  object-fit:none;
   
 }
 
