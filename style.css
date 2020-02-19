@@ -1,0 +1,120 @@
+.button-primary, .btn-lg{
+  background-color: #FF5252;
+  border-color: #EF5350;
+}
+
+.btn-secondary {
+  background-color: #FF5252;
+  border-color: #EF5350;
+}
+
+.headimage{
+  height: 200px;
+  width: 200px;
+  border-radius: 1000px;
+  position: fixed;
+  top: 35px;
+}
+
+#logo{
+ padding: 9px;
+ background-color: #fc6868;
+ width: 100px;
+ height:100px; 
+ color: white;
+ 
+ font-weight:bold;
+ text-align: center;
+ position: fixed;
+ border-radius: 50px;
+ top: 15px;
+ left: 15px; 
+ z-index: 100000; 
+}
+
+.navbar-brand{
+  position:fixed;
+  left: 140px;
+  top: 14px;
+}
+.nav-link{
+  position:relative;
+  padding: 15px;
+  left: 240px;
+}
+
+.dropdown-menu, .dropdown-item{
+  left:246px;
+  top:59px;
+  background-color: #353A40;
+  color: white; 
+  border-radius: 0px;
+}
+
+
+}
+
+.content{
+  margin-left: 390px;
+}
+
+.floatcontent{
+  margin-top: 70px;
+  float:left;
+  display:block;
+}
+
+ #resources{
+  float: left;
+  margin-left:390px; 
+
+}
+
+#shortcuts{
+  float: right;
+  margin-left: 300px;
+} 
+
+#devlinks{
+  margin-top: 45px;
+  margin-left: 390px;
+  float:left;
+  clear: none;
+}
+
+#foot{
+  clear: left;
+  font-size: 15px;
+}
+
+
+
+#abt_head{
+  font-size: 50px;
+}
+
+#abt_text{
+  margin-top: 50px;
+  font-size:17px;
+  margin-left:475px;
+  
+}
+
+.aboutimgs{
+  height: 400px;
+  margin-right: 10px;
+  float: left;
+  display: block;
+  
+}
+
+#site_links{
+  margin-top: 10px;
+  margin-left: 50%;
+  margin-right: 50%
+  float:left;
+}
+
+.display-3{
+  margin-top: 40px;
+}
